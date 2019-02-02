@@ -1,16 +1,16 @@
 ﻿{
   "slack": {
-    "userAuthToken": "token-tokentoken-tokentoken-tokentoken-token",
-    "botAuthToken": "bottoken-bottoken-bottoken-bottoken",
-    "testChannel": "SuperSecretChannel",
-    "directMessageUser": "someUserId",
+    "userAuthToken": "xoxp-453592161634-466887713169-471246578978-08c404db2d6d8dc61375d84af77fa105",
+    "botAuthToken": "xoxb-453592161634-482317366005-abrxh0HtnUPreXDsd5FFssFL",
+    "testChannel": "Dishang",
+    "directMessageUser": "arman",
 
     // Application GetAccessToken
-    "clientId": "your-special-id",
-    "clientSecret": "such-special-secret-key",
-    "redirectUrl": "http://redirecturl",
-    "authUsername": "user@domain.com",
-    "authPassword": "userpassword",
-    "authWorkspace": "workspace"
+    "clientId": "453592161634.470667895572",
+    "clientSecret": "7a606b166d6aee563d3fe9f3bdc96bff",
+    "redirectUrl": "https://dishang.com.bd",
+    "authUsername": "arman@dishang.com.bd",
+    "authPassword": "Sakeen&Sakeen1",
+    "authWorkspace": "dslbd"
   }
 }
