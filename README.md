@@ -31,10 +31,10 @@ The project **SlackAPI.Tests** requires a valid `config.json` file for tests. Yo
 - Create your own config.json file to be able to run tests and validate your changes.
   - Copy/paste `config.default.json` to `config.json`
   - Update `config.json` file with your settings
-    - *userAuthToken* : Visit https://api.slack.com/docs/oauth-test-tokens to generate a token for your user
-    - *botAuthToken* : Visit https://my.slack.com/services/new/bot to create a bot for your Slack team and retrieve associated token
+    - *userAuthToken* : xoxp-453592161634-466887713169-471246578978-08c404db2d6d8dc61375d84af77fa105
+    - *botAuthToken* : xoxb-453592161634-482317366005-abrxh0HtnUPreXDsd5FFssFL
     - *testChannel* : A channel ID (user associated to *userAuthToken* must be member of the channel)
-    - *directMessageUser* : A Slack member username
+    - *directMessageUser* : arman
     - *clientId*/*clientSecret*/*authCode* : Not used
 
 # NuGet package
